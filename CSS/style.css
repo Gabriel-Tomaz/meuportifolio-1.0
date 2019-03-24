@@ -510,11 +510,11 @@
 		visibility: visible;
 	}
 	.menu_logo_r{
-		width: 250px;
+		width: 150px;
 		height: 50px;
 		position: absolute;
 		top: 0.5%;
-		left: 16%;
+		left: 32%;
 		visibility: visible;
 		display: flex;
 		flex-direction: row;
@@ -523,7 +523,7 @@
 		justify-content: center;
 	}
 	.menu_logo_r img{
-		max-width:55%;
+		max-width:100%;
 	}
 	.title{
 		position: absolute;
