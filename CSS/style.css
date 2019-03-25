@@ -375,7 +375,7 @@
 	}
 }
 /*Smarphone*/
-@media all and (min-width: 10px) and (max-width: 800px) and (orientation: portrait){
+@media all and (min-width: 10px) and (max-width: 767px) and (orientation: portrait){
 	body{
 		background-color: #333;
 		overflow: hidden;
@@ -696,7 +696,7 @@
 	}
 }
 /*Tablets Retrato*/
-@media only screen and (max-width: 1024px){
+@media all and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait){
 	body{
 		background-color: #333;
 		overflow: hidden;
